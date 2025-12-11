@@ -4,3 +4,4 @@ This project implements a simple banking system with deposit, withdrawal and sta
 
 ## How to run
 Compile and run Main.java.
+## ADIL ELOUAFI 
